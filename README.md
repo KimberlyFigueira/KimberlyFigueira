@@ -2,7 +2,7 @@
 <hr>
 
 <img width="48%" align=left src="https://github-readme-stats-sigma-five.vercel.app/api?username=KimberlyFigueira&show_icons=true&theme=tokyonight">
-<img width="27%" height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KimberlyFigueira&hide_progress=true&theme=tokyonight">
+<img width="29%" height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KimberlyFigueira&hide_progress=true&theme=tokyonight">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
