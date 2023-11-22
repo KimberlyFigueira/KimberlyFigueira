@@ -20,4 +20,4 @@
 </div>
 
 ![Snake animation](https://github/KimberlyFigueira/KimberlyFigueira/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username-KimberlyFigueira&repo-KimberlyFigueira$theme=react)](https://github.com/KimberlyFigueira/KimberlyFigueira)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username-KimberlyFigueira&repo-KimberlyFigueira$theme=react)](https://github.com/KimberlyFigueira/KimberlyFigueira)
