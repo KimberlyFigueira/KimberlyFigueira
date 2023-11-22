@@ -19,5 +19,4 @@
   <a href="https://www.linkedin.com/in/kimberly-figueira-bab8621b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github/KimberlyFigueira/KimberlyFigueira/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin?username-KimberlyFigueira&repo-KimberlyFigueira)](https://github.com/KimberlyFigueira/KimberlyFigueira)
+![Snake animation](https://github.com/KimberlyFigueira/KimberlyFigueira/blob/output/github-contribution-grid-snake.svg)
